@@ -48,7 +48,6 @@ header{
 	margin: 10px 0;
 }
 .resume-1 .contact .icons{
-    background: #fff;
     color: #000;
     position: relative;
     height: 30px;
@@ -58,7 +57,7 @@ header{
 }
 
 .resume-1 .contact .icons span{
-    background: red;
+    color: red;
     height: 30px;
     position: absolute;
     width: 30px;
